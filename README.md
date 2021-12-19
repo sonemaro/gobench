@@ -7,7 +7,7 @@ Main features and cons of each project plus benchmark!
 
 
 # Gin
-[gin framework](https://github.com/gin-gonic/gin)  is my one of the most famous golang frameworks and it provides a lot of features without paying much.
+[gin framework](https://github.com/gin-gonic/gin)  is one of the most famous golang frameworks and it provides a lot of features without paying much.
 It has a big community with a lot of production ready plugins and extensions like `jwt`, `session`, `health check`, etc. 
 
 Gin provides support for JSON validation. Requesting with a JSON can validate required values, like input data from the client. These values must be validated before saving in memory, so by validating them, developers can avoid saving inaccurate values.
