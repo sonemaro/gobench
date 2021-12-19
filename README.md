@@ -111,7 +111,7 @@ Like the other Go frameworks we’ve mentioned in this post, it has versatile mi
 # Benchmarks
 
 For framework benchmark, [go-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) were utilized. 
-Unfortunately the above tool doesn't support `Irish` so that `Irish` will be missing in all charts. 
+Unfortunately, this tool doesn't support `Irish` so that `Irish` will be missing in all charts. 
 
 
 
@@ -122,14 +122,14 @@ CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
 Mem: Samsung 16G DDR4 2400 MT/s
 
 # References
-https://github.com/smallnest/go-web-framework-benchmark
-https://blog.logrocket.com/5-top-go-web-frameworks/
-https://github.com/beego/beego
-https://github.com/labstack/echo
-https://github.com/gofiber/fiber
-https://github.com/kataras/iris
-https://github.com/gin-gonic/gin
-https://github.com/gin-gonic/gin/blob/master/BENCHMARKS.md
-https://ngrok.com/
-https://golangrepo.com/repo/smallnest-go-web-framework-benchmark-go-web-frameworks
-https://dzone.com/articles/comparison-of-popular-web-frameworks-in-go
+https://github.com/smallnest/go-web-framework-benchmark  
+https://blog.logrocket.com/5-top-go-web-frameworks/  
+https://github.com/beego/beego  
+https://github.com/labstack/echo  
+https://github.com/gofiber/fiber  
+https://github.com/kataras/iris  
+https://github.com/gin-gonic/gin  
+https://github.com/gin-gonic/gin/blob/master/BENCHMARKS.md  
+https://ngrok.com/  
+https://golangrepo.com/repo/smallnest-go-web-framework-benchmark-go-web-frameworks  
+https://dzone.com/articles/comparison-of-popular-web-frameworks-in-go  
