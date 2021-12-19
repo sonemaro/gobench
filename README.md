@@ -113,14 +113,21 @@ Like the other Go frameworks we’ve mentioned in this post, it has versatile mi
 For framework benchmark, [go-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) were utilized. 
 Unfortunately, this tool doesn't support `Irish` so that `Irish` will be missing in all charts. 
 
-![Benchmark](https://github.com/sonemaro/gobench/blob/main/benchmark.png)
-![Concurrency](https://github.com/sonemaro/gobench/blob/main/concurrency.png)
-![CPU Bound](https://github.com/sonemaro/gobench/blob/main/cpubound_benchmark.png)
-![CPU Bound Concurrency](https://github.com/sonemaro/gobench/blob/main/cpubound_concurrency.png)
+Simple Benchmark  
+![Benchmark](https://github.com/sonemaro/gobench/blob/main/benchmark.png)  
+
+Benchmark With Concurrency  
+![Concurrency](https://github.com/sonemaro/gobench/blob/main/concurrency.png)  
+
+CPU Usage Benchmark  
+![CPU Bound](https://github.com/sonemaro/gobench/blob/main/cpubound_benchmark.png)  
+
+Concurrent CPU Usage Benchmark  
+![CPU Bound Concurrency](https://github.com/sonemaro/gobench/blob/main/cpubound_concurrency.png)  
 
 #### Hardware
-CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
-Mem: Samsung 16G DDR4 2400 MT/s
+CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz  
+Mem: Samsung 16G DDR4 2400 MT/s  
 
 # References
 https://github.com/smallnest/go-web-framework-benchmark  
